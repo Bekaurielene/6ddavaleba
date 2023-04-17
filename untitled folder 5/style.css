@@ -1,0 +1,134 @@
+ *{
+  box-sizing: border-box;
+ }
+
+table{
+  border-collapse: collapse;
+}
+
+
+
+
+
+.ht{
+background-color: #F9F9F9;
+width: 72px;
+height: 57px;
+margin-left: 141px;
+margin-top: 130px;
+border-right: 1px solid #DADADA;
+border-bottom:1px solid #DADADA ;
+border-top:1px solid #DADADA ; 
+border-left: 1px solid #DADADA ;
+
+
+}
+
+.tm{
+  background-color: #F9F9F9;
+  margin-top: 130px;
+  margin-left: 212px;
+  width: 444px;
+  height: 57px;
+  border-right: 1px solid #DADADA;
+  border-bottom:1px solid #DADADA ;
+  border-left:1px solid #DADADA ; ;
+  text-align: start;
+  border-top:1px solid #DADADA ;
+  padding-left: 20px;
+
+
+
+}
+
+.hl{
+    background-color: #F9F9F9;
+    width: 276px;
+    height: 57px;
+    margin-top: 130px;
+    margin-left: 655px;
+    border-right: 1px solid #DADADA;
+    border-bottom:1px solid #DADADA ;
+    border-top:1px solid #DADADA ; ;
+
+}
+.hu{
+    background-color: #F9F9F9;
+    width: 368px;
+    height: 57px;
+    margin-top: 130px;
+    margin-left: 930px;
+    border-right: 1px solid #DADADA;
+    border-bottom:1px solid #DADADA ;
+    border-top:1px solid #DADADA ; ;
+
+}
+
+  .dw{
+    width: 72px;
+    height: 57px;
+    margin-top: 186px;
+    margin-left: 141px;
+    border-right: 1px solid #DADADA;
+    border-bottom:1px solid #DADADA ;
+    border-left:1px solid #DADADA ; ;
+    text-align: center;
+
+  }
+  .dh{
+    width: 444px;
+    height: 57px;
+    margin-top: 186px;
+    margin-left: 212px;
+    border-right: 1px solid #DADADA;
+    border-bottom:1px solid #DADADA ;
+    padding-left: 20px;
+  }
+  .dr{
+    width: 444px;
+    height: 57px;
+    margin-top: 130px;
+    margin-left: 212px;
+    border-right: 1px solid #DADADA;
+    border-bottom:1px solid #DADADA ;
+    text-align: center;
+
+  }
+  
+    
+.de{
+  width: 368px;
+  height: 57px;
+  margin-top: 186px;
+  margin-left: 930px;
+  border-right: 1px solid #DADADA;
+  border-bottom:1px solid #DADADA ;
+}
+
+.b1{
+  width: 115px;
+  height: 36px;
+  margin-top: 2px;
+  margin-left: 50px;
+  border-radius: 10px;
+  background-color:  rgba(255, 212, 58, 1);
+  border: none;
+  ;
+}
+.b2{
+  width: 115px;
+  height: 36px;
+  margin-top: 2px;
+  margin-left: 2px;
+  border-radius: 10px;
+  background-color:rgba(232, 73, 73, 1) ;
+  color:rgba(255, 255, 255, 1) ;
+  border: none;
+
+}
+
+  
+
+
+  
+  
